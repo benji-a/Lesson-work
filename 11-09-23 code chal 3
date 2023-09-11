@@ -1,0 +1,6 @@
+outlet1Sales = [10, 12, 15, 10]
+outlet2Sales = [5, 8, 3, 6]
+outlet3Sales = [10, 12, 15, 10]
+
+print('Total for quarter 1' + outlet1Sales
+

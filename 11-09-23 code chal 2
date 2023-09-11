@@ -1,1 +1,8 @@
+names = []
 
+reqStudentNb = input('What student record number are you searching for?')
+reqStudentNb = reqStudentNb - 1
+try:
+print('The students record number is' + names[reqStudentNb]
+except:
+print('This student was not found')
